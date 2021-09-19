@@ -4,7 +4,7 @@
 
 This project touches the surface of how basic recommendation systems work with singular value decomposition (SVD) and the SGD algorithm. 
 
-There are a total of two tasks, but the first one explains the working of the algorithm in much more pedantic detail. In this task, we predict the rating for a given (user_id, movie_id) pair by finding  \widehat{y}.  \widehat{y}  can be calculated by solving the below equation:
+There are a total of two tasks, but the first one explains the working of the algorithm in much more pedantic detail. In this task, we predict the rating for a given (user_id, movie_id) pair by finding  𝑦̂ 𝑖𝑗. It can be calculated by solving the below equation:
 
 ![image](https://user-images.githubusercontent.com/64201589/133935189-ceb57732-7a2e-4734-85a1-a83d5d409305.png)
 
